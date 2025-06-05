@@ -1,0 +1,10 @@
+[package]
+name = "gpxsplit"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.98"
+clap = { version = "4.5.39", features = ["derive"] }
+geoutils = "0.5.1"
+gpx = "0.10.0"
