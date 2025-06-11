@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" creator="TopoFusion 5.81">
   <metadata>
-    <time>1969-12-31T23:59:59.000000000Z</time>
     <link href="http://topofusion.com">
       <text>TopoFusion Home Page</text>
     </link>
@@ -10,6 +9,9 @@
   <trk>
     <name>TourDivide2025_v1_27.gpx</name>
     <trkseg>
+      <trkpt lat="32.197591" lon="-108.415942">
+        <ele>1372</ele>
+      </trkpt>
       <trkpt lat="32.181315" lon="-108.38992">
         <ele>1371</ele>
       </trkpt>
